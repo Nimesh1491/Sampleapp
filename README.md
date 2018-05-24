@@ -35,7 +35,7 @@
 
 -	To Commit all File
 	-	git commit
-	*	(It will open one editor and add comment and close the editor)
+	-	**(It will open one editor and add comment and close the editor)**
 	
 -	Clear Commands
 	-	clear
@@ -55,7 +55,7 @@
 	
 -	To switch one branch to another
 	-	git checkout branch_name
-	*	(When you want to switch you have to commit all changes of exist branch)
+	-	**(When you want to switch you have to commit all changes of exist branch)**
 
 -	To Merge One branch to another
 	-	git merge branch_name
@@ -77,17 +77,15 @@ How to Add your Project in Github
 
 -	Connect to your local project to github remotely command
 	-	git remote
-	
-	*	(Copy remote command path from github)
-	*	Example :
-	*	git remote add origin https://github.com/Nimesh1491/Sampleapp.git
+	-	**(Copy remote command path from github) for Example:**
+	-	**git remote add origin https://github.com/Nimesh1491/Sampleapp.git **
 	
 -	Again run remote command
 	-	git remote
 	
 -	Push Origin file to master file
 	-	git push -u origin master
-	*	(login in Github from Popup)
+	-	**(login in Github from Popup)**
 
 Now You can see your all local files in your github repository file
 
