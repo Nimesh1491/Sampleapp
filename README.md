@@ -2,8 +2,9 @@
 	-	https://git-scm.com/download/win
 
 -	Check Git Version command
-	-	git --version
-	
+	```
+	git --version
+	```
 -	Create Folder and Right click open with (Git Bash Here)
 
 -	Create html file Command
@@ -78,7 +79,7 @@ How to Add your Project in Github
 -	Connect to your local project to github remotely command
 	-	git remote
 	-	**(Copy remote command path from github) for Example:**
-	-	**git remote add origin https://github.com/Nimesh1491/Sampleapp.git **
+	-	**git remote add origin https://github.com/Nimesh1491/Sampleapp.git**
 	
 -	Again run remote command
 	-	git remote
@@ -87,20 +88,20 @@ How to Add your Project in Github
 	-	git push -u origin master
 	-	**(login in Github from Popup)**
 
-Now You can see your all local files in your github repository file
+**Now You can see your all local files in your github repository file**
 
-Note :  If you want to add new file in Github repository then follow below steps
+**Note :  If you want to add new file in Github repository then follow below steps**
 1) git pull
 2) git push
 
-And if you want to add new file in local repository then follow below steps
+**And if you want to add new file in local repository then follow below steps**
 1) touch filename
 2) git add .
 3) git commit -m 'commit message'
 4) git push
 
 
--	You can check all the steps on below url
+-	**You can check all the steps on below url**
 
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
