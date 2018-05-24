@@ -62,3 +62,44 @@ https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
 -	To Merge One branch to another
 	git merge branch_name
+
+
+==================================
+
+How to Add your Project in Github
+
+==================================
+
+-	Create account in Github
+-	Start Project
+-	Create new repository (add and select which you need such as)
+	-	Repository Name
+	-	Desc
+	-	Public / Private
+-	Follow the command which is show on Github page after create repository
+
+-	Connect to your local project to github remotely command
+	git remote
+	
+	(Copy remote command path from github)
+	Example :
+	git remote add origin https://github.com/Nimesh1491/Sampleapp.git
+	
+-	Again run remote command
+	git remote
+	
+-	Push Origin file to master file
+	git push -u origin master
+	(login in Github from Popup)
+
+Now You can see your all local files in your github repository file
+
+Note :  If you want to add new file in Github repository then follow below steps
+1) git pull
+2) git push
+
+And if you want to add new file in local repository then follow below steps
+1) touch filename
+2) git add .
+3) git commit -m 'commit message'
+4) git push
