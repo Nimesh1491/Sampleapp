@@ -1,4 +1,4 @@
--	Install Git from [Download Git] (https://git-scm.com/download/win).
+-	Install Git from [Download Git](https://git-scm.com/download/win).
 
 -	Check Git Version command
 	```
