@@ -8,17 +8,23 @@
 -	Create Folder and Right click open with (Git Bash Here)
 
 -	Create html file Command
-	-	touch filename.html
+	```
+	touch filename.html
+	
 
 -	Initialize Git Command (it will create one repository in your folder and folder is hiddden)
-	-	git init
+	```
+	git init
+	```
 
 -	Set global Configuration of Git (Example Name, Email)
-	-	git config --global user.name 'nimesh'
-	-	git config --global user.email 'nimesh.prajapati@hexpress.net'
+	```
+	git config --global user.name 'nimesh'
+	git config --global user.email 'nimesh.prajapati@hexpress.net'
+	```
 
 -	To add File in Master repository Command (check in Repository file)
-	-	git add filename.html
+	```git add filename.html```
 
 -	To know status of all files Command
 	-	git status
