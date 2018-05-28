@@ -140,3 +140,5 @@ git push
 ```
 
 **You can check all the steps on below url [youtube](https://www.youtube.com/watch?v=SWYqp7iY_Tc).**
+
+**[GIT: Merging and Workflow](https://www.youtube.com/watch?v=0iuqXh0oojo).**
